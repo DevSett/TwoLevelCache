@@ -1,0 +1,1 @@
+RUN JUR IN CMD example:java -jar *.jar 5 5 LFU
